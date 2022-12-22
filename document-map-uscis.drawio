@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T16:17:54.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="h2IlF_8zZetA1BJv-QPu" version="20.7.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-22T16:19:35.414Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="CoNtT6swHIEymEqyurQu" version="20.7.4" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1387" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,7 +63,7 @@
           <mxGeometry x="360.3242937853108" y="46.16462346760069" width="179.56881355932202" height="34.623467600700515" as="geometry" />
         </mxCell>
         <mxCell id="hO-RIWSvQyp-7317ckD7-10" value="&lt;font face=&quot;Source Sans Pro&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; size=&quot;1&quot; color=&quot;#666666&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;EMPLOYEE RESOURCES GUIDE&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hO-RIWSvQyp-7317ckD7-61" vertex="1">
-          <mxGeometry x="254.38915254237287" width="448.92203389830524" height="34.623467600700515" as="geometry" />
+          <mxGeometry x="173.38915254237287" width="448.92203389830524" height="34.623467600700515" as="geometry" />
         </mxCell>
         <mxCell id="hO-RIWSvQyp-7317ckD7-15" value="&lt;b&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot; style=&quot;font-size: 11px;&quot; color=&quot;#666666&quot;&gt;DOCUMENTS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hO-RIWSvQyp-7317ckD7-61" vertex="1">
           <mxGeometry x="600.9360451977402" y="46.16462346760069" width="179.56881355932202" height="34.623467600700515" as="geometry" />
