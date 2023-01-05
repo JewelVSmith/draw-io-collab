@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-29T20:10:29.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="s88suGQltt5MpFnQkt76" version="20.7.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-01-05T16:52:08.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="WGyfU_0eQBoMzQaSRhKz" version="20.7.3" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1627" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -49,12 +49,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tNLMt90Evwb3OFQb0YTO" name="Page-2">
-    <mxGraphModel dx="1627" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="1" shadow="0">
+    <mxGraphModel dx="1434" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hO-RIWSvQyp-7317ckD7-61" value="" style="group;fontFamily=Source Sans Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BSans%2BPro;fontColor=#FFFFFF;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="95" y="84" width="890" height="690" as="geometry" />
+          <mxGeometry x="95" y="84" width="1045" height="690" as="geometry" />
         </mxCell>
         <mxCell id="5MSNh-AeDjDI1JEi1hB_-4" value="&lt;b&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot; style=&quot;font-size: 11px;&quot; color=&quot;#666666&quot;&gt;WORK SCHEDULE&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hO-RIWSvQyp-7317ckD7-61" vertex="1">
           <mxGeometry x="5.933333333333333" y="46.16462346760069" width="179.56881355932202" height="34.623467600700515" as="geometry" />
@@ -69,7 +69,7 @@
           <mxGeometry x="600.9360451977402" y="46.16462346760069" width="179.56881355932202" height="34.623467600700515" as="geometry" />
         </mxCell>
         <mxCell id="hO-RIWSvQyp-7317ckD7-35" value="" style="group" parent="hO-RIWSvQyp-7317ckD7-61" vertex="1" connectable="0">
-          <mxGeometry y="79.63397548161116" width="882.8800000000001" height="203.12434325744303" as="geometry" />
+          <mxGeometry y="79.63397548161116" width="1045" height="203.12434325744303" as="geometry" />
         </mxCell>
         <mxCell id="5MSNh-AeDjDI1JEi1hB_-1" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#333333&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot; style=&quot;font-size: 14px;&quot;&gt;TELEWORK&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#929395;strokeColor=#36393d;" parent="hO-RIWSvQyp-7317ckD7-35" vertex="1">
           <mxGeometry y="1.1499999999999995" width="130" height="46.15999999999998" as="geometry" />
@@ -98,7 +98,7 @@
         <mxCell id="hO-RIWSvQyp-7317ckD7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=14;fontColor=#666666;endArrow=baseDash;endFill=0;strokeColor=#666666;" parent="hO-RIWSvQyp-7317ckD7-35" source="hO-RIWSvQyp-7317ckD7-8" target="hO-RIWSvQyp-7317ckD7-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hO-RIWSvQyp-7317ckD7-24" value="&lt;ul&gt;&lt;li&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;HQFDNS TW Overview&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;HQFDNS Core and Episodic guide&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;fontFamily=Helvetica;" parent="hO-RIWSvQyp-7317ckD7-35" vertex="1">
+        <mxCell id="hO-RIWSvQyp-7317ckD7-24" value="&lt;ul&gt;&lt;li&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;HQFDNS TW Overview&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;HQFDNS Core and Episodic guide&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;fontFamily=Helvetica;" parent="hO-RIWSvQyp-7317ckD7-35" vertex="1">
           <mxGeometry x="602" y="3.19" width="266.95" height="63.77" as="geometry" />
         </mxCell>
         <mxCell id="hO-RIWSvQyp-7317ckD7-12" value="&lt;b&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot; style=&quot;font-size: 11px;&quot; color=&quot;#666666&quot;&gt;OR&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hO-RIWSvQyp-7317ckD7-35" vertex="1">
@@ -186,17 +186,17 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="01qjJ94DBEYPRHdsTowz-1" value="Link" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+        <mxCell id="01qjJ94DBEYPRHdsTowz-1" value="Link" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
           <mxGeometry x="1260" y="560" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="01qjJ94DBEYPRHdsTowz-3" value="Link" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+        <mxCell id="01qjJ94DBEYPRHdsTowz-3" value="Link" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
           <mxGeometry x="1250" y="480" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="01qjJ94DBEYPRHdsTowz-4" value="Link" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="380" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="01qjJ94DBEYPRHdsTowz-7" value="Link" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+        <mxCell id="01qjJ94DBEYPRHdsTowz-7" value="Link" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
           <mxGeometry x="1190" y="500" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="01qjJ94DBEYPRHdsTowz-4" value="&lt;u&gt;&lt;span style=&quot;font-size:11.0pt;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;&lt;br/&gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;color:#0563C1;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;&lt;a href=&quot;https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fecn.uscis.dhs.gov%2Fteam%2Ffdns%2FMission%2520Support%2FWorkforceManagement%2FNewEmployeeResources%2FTelework_HQFDNS_06-16-2021.pdf&amp;amp;data=05%7C01%7CJewel.V.Smith%40uscis.dhs.gov%7C29893a2f67314564487608dad70397c2%7C5e41ee740d2d4a728975998ce83205eb%7C0%7C0%7C638058707666080234%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;amp;sdata=BopLLTtukLYnr1cGObG%2FZWpxvd%2BpfvraoUv06xSXn2I%3D&amp;amp;reserved=0&quot;&gt;Telework_HQFDNS_06-16-2021.pdf&lt;/a&gt;&lt;/span&gt;&lt;/u&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=0;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
+          <mxGeometry x="1170" y="370" width="250" height="64.23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
