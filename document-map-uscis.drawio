@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-09T18:33:03.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="xjeAevEU4clxY7J_nnpn" version="20.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-09T19:56:31.602Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="jnSvRRDxHZKUCIXR6dDT" version="20.8.1" type="github">
   <diagram id="tNLMt90Evwb3OFQb0YTO" name="HQFDNS">
-    <mxGraphModel dx="1366" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="1" shadow="0">
+    <mxGraphModel dx="1434" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -105,15 +105,48 @@
         <mxCell id="hO-RIWSvQyp-7317ckD7-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=14;fontColor=#666666;endArrow=baseDash;endFill=0;strokeColor=#666666;" parent="hO-RIWSvQyp-7317ckD7-36" source="hO-RIWSvQyp-7317ckD7-40" target="hO-RIWSvQyp-7317ckD7-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hO-RIWSvQyp-7317ckD7-46" value="&lt;ul&gt;&lt;li&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;RW guidance for new and current employees&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;RW guidance (local and long distance)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;G-1551 RW request form&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;fontFamily=Helvetica;" parent="hO-RIWSvQyp-7317ckD7-36" vertex="1">
-          <mxGeometry x="605.2" y="99.99999999999997" width="272.9333333333333" height="74.99999999999997" as="geometry" />
-        </mxCell>
-        <mxCell id="hO-RIWSvQyp-7317ckD7-47" value="&lt;ul&gt;&lt;li&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;RW guidance for new and current employees&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;RW guidance (local and long distance)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;G-1551 RW request form&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;fontFamily=Helvetica;" parent="hO-RIWSvQyp-7317ckD7-36" vertex="1">
-          <mxGeometry x="600.66" width="269.34" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="hO-RIWSvQyp-7317ckD7-60" value="&lt;b&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot; style=&quot;font-size: 11px;&quot; color=&quot;#666666&quot;&gt;OR&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hO-RIWSvQyp-7317ckD7-36" vertex="1">
           <mxGeometry y="170" width="80" height="23.81" as="geometry" />
         </mxCell>
+        <mxCell id="ezUt7ITriSW1cjWMWIen-33" value="" style="group" vertex="1" connectable="0" parent="hO-RIWSvQyp-7317ckD7-36">
+          <mxGeometry x="582" y="-0.5977408056041327" width="278" height="71" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;ul style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 11px; font-weight: 700; text-align: left;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;RW guidance for new and current employees&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" link="https://ecn.uscis.dhs.gov/team/fdns/Mission%20Support/WorkforceManagement/NewEmployeeResources/Remote%20Work_Memo_HQFDNS_Employees%2010.25.21.pdf" id="ezUt7ITriSW1cjWMWIen-2">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="ezUt7ITriSW1cjWMWIen-33">
+            <mxGeometry x="29" width="249" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;ul style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 11px; font-weight: 700; text-align: left;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;RW guidance (local and long distance)&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" link="https://ecn.uscis.dhs.gov/team/fdns/Mission%20Support/WorkforceManagement/NewEmployeeResources/G-1551,%20Remote%20Work%20Request%20and%20Approval.pdf" id="ezUt7ITriSW1cjWMWIen-3">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="ezUt7ITriSW1cjWMWIen-33">
+            <mxGeometry x="17" y="16" width="240" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;ul style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 11px; font-weight: 700; text-align: left;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Source Sans Pro&amp;quot;;&quot;&gt;G-1551 RW request form&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" link="https://ecn.uscis.dhs.gov/team/fdns/Mission%20Support/WorkforceManagement/NewEmployeeResources/G-1551,%20Remote%20Work%20Request%20and%20Approval.pdf" id="ezUt7ITriSW1cjWMWIen-4">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="ezUt7ITriSW1cjWMWIen-33">
+            <mxGeometry y="31" width="210" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="ezUt7ITriSW1cjWMWIen-52" value="" style="group" vertex="1" connectable="0" parent="hO-RIWSvQyp-7317ckD7-36">
+          <mxGeometry x="553" y="104.65225919439587" width="307" height="70" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;ul style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 11px; font-weight: 700; text-align: left;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Source Sans Pro&amp;quot;;&quot;&gt;G-1551 RW request form&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" link="https://ecn.uscis.dhs.gov/team/fdns/Mission%20Support/WorkforceManagement/NewEmployeeResources/G-1551,%20Remote%20Work%20Request%20and%20Approval.pdf" id="ezUt7ITriSW1cjWMWIen-50">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;container=0;" vertex="1" parent="ezUt7ITriSW1cjWMWIen-52">
+            <mxGeometry y="30" width="268" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="ezUt7ITriSW1cjWMWIen-51" value="" style="group" vertex="1" connectable="0" parent="ezUt7ITriSW1cjWMWIen-52">
+          <mxGeometry x="47" width="260" height="57" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;ul style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 11px; font-weight: 700; text-align: left;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;RW guidance for new and current employees&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" link="https://ecn.uscis.dhs.gov/team/fdns/Mission%20Support/WorkforceManagement/NewEmployeeResources/Remote%20Work_Memo_HQFDNS_Employees%2010.25.21.pdf" id="ezUt7ITriSW1cjWMWIen-48">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;container=0;" vertex="1" parent="ezUt7ITriSW1cjWMWIen-51">
+            <mxGeometry x="11" width="249" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;ul style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 11px; font-weight: 700; text-align: left;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;RW guidance (local and long distance)&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" link="https://ecn.uscis.dhs.gov/team/fdns/Mission%20Support/WorkforceManagement/NewEmployeeResources/G-1551,%20Remote%20Work%20Request%20and%20Approval.pdf" id="ezUt7ITriSW1cjWMWIen-49">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;container=0;" vertex="1" parent="ezUt7ITriSW1cjWMWIen-51">
+            <mxGeometry y="17" width="240" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="hO-RIWSvQyp-7317ckD7-48" value="" style="group" parent="hO-RIWSvQyp-7317ckD7-61" vertex="1" connectable="0">
           <mxGeometry x="-1.5299999999999994" y="473.19" width="890" height="216.81" as="geometry" />
         </mxCell>
@@ -144,9 +177,6 @@
         <mxCell id="hO-RIWSvQyp-7317ckD7-58" value="&lt;ul&gt;&lt;li&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;AWS for Non-Shift employees&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;HQFDNS AWS Memo for professional bargaining unit employees&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;MOA for changes to AWS&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;HQFDNS employees on a non-shift work schedule&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;&amp;nbsp;AWS Online Application Guide (G-1228)&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;fontFamily=Helvetica;" parent="hO-RIWSvQyp-7317ckD7-48" vertex="1">
           <mxGeometry x="600" y="110" width="280" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="hO-RIWSvQyp-7317ckD7-59" value="&lt;ul&gt;&lt;li&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;AWS for Non-Shift employees&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;HQFDNS AWS Memo for professional bargaining unit employees&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;MOA regarding changes to AWS&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;HQFDNS employees on a non-shift work schedule&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;fontFamily=Helvetica;" parent="hO-RIWSvQyp-7317ckD7-48" vertex="1">
-          <mxGeometry x="602.0389610389611" width="277.40259740259745" height="91.28842105263159" as="geometry" />
-        </mxCell>
         <mxCell id="LasIUC3LL_AKMvU_pXDK-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#666666;endArrow=baseDash;endFill=0;strokeColor=#666666;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="hO-RIWSvQyp-7317ckD7-48" source="hO-RIWSvQyp-7317ckD7-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="485.58917748917764" y="27.104227665222638" as="sourcePoint" />
@@ -154,6 +184,29 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ezUt7ITriSW1cjWMWIen-46" value="" style="group" vertex="1" connectable="0" parent="hO-RIWSvQyp-7317ckD7-48">
+          <mxGeometry x="592.5" width="295" height="90" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;ul style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 11px; font-weight: 700; text-align: left;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;AWS for Non-Shift employees&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" link="https://ecn.uscis.dhs.gov/team/fdns/Mission%20Support/WorkforceManagement/NewEmployeeResources/Telework_HQFDNS_06-16-2021.pdf" id="ezUt7ITriSW1cjWMWIen-42">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;container=0;" vertex="1" parent="ezUt7ITriSW1cjWMWIen-46">
+            <mxGeometry x="7.515923566878981" width="175.68471337579618" height="33.333333333333336" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;ul style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 11px; font-weight: 700; text-align: left;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;HQFDNS AWS Memo for professional bargaining unit employees&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" link="https://ecn.uscis.dhs.gov/team/fdns/Mission%20Support/WorkforceManagement/NewEmployeeResources/AWS%20Pro%20BUEs%20MOA%20AHR.pdf" id="ezUt7ITriSW1cjWMWIen-43">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;container=0;" vertex="1" parent="ezUt7ITriSW1cjWMWIen-46">
+            <mxGeometry x="8.152866242038217" y="17.5" width="281.8471337579618" height="33.333333333333336" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;ul style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 11px; font-weight: 700; text-align: left;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;MOA regarding changes to AWS&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" link="https://ecn.uscis.dhs.gov/team/fdns/Mission%20Support/WorkforceManagement/NewEmployeeResources/AHR%20Approval%20-%20Alternative%20Work%20Schedule%20FDNS.pdf" id="ezUt7ITriSW1cjWMWIen-44">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;container=0;" vertex="1" parent="ezUt7ITriSW1cjWMWIen-46">
+            <mxGeometry y="35.833333333333336" width="197.29299363057325" height="33.333333333333336" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;ul style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 11px; font-weight: 700; text-align: left;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;HQFDNS employees on a non-shift work schedule&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" link="https://ecn.uscis.dhs.gov/team/fdns/Mission%20Support/WorkforceManagement/NewEmployeeResources/AWS_Policy_HQFDNS.pdf" id="ezUt7ITriSW1cjWMWIen-45">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;container=0;" vertex="1" parent="ezUt7ITriSW1cjWMWIen-46">
+            <mxGeometry x="7.213375796178344" y="56.66666666666667" width="197.29299363057325" height="33.333333333333336" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="d4ItzyQ0qfeF1X_CQVVO-11" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="620" y="140" width="210" height="50" as="geometry" />
         </mxCell>
@@ -165,6 +218,26 @@
         <UserObject label="&lt;ul style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 11px; font-weight: 700; text-align: left;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;HQFDNS Core and Episodic guide&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" link="https://ecn.uscis.dhs.gov/team/fdns/Mission%20Support/WorkforceManagement/NewEmployeeResources/HQFDNS_Telework_Guidance.pdf" id="d4ItzyQ0qfeF1X_CQVVO-10">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="d4ItzyQ0qfeF1X_CQVVO-11">
             <mxGeometry y="13" width="210" height="37" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;ul style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 11px; font-weight: 700; text-align: left;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;AWS for Non-Shift employees&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" link="https://ecn.uscis.dhs.gov/team/fdns/Mission%20Support/WorkforceManagement/NewEmployeeResources/Telework_HQFDNS_06-16-2021.pdf" id="ezUt7ITriSW1cjWMWIen-54">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;container=0;" vertex="1" parent="1">
+            <mxGeometry x="1427.5159235668789" y="470" width="175.68471337579618" height="33.333333333333336" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;ul style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 11px; font-weight: 700; text-align: left;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;HQFDNS AWS Memo for professional bargaining unit employees&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" link="https://ecn.uscis.dhs.gov/team/fdns/Mission%20Support/WorkforceManagement/NewEmployeeResources/AWS%20Pro%20BUEs%20MOA%20AHR.pdf" id="ezUt7ITriSW1cjWMWIen-55">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;container=0;" vertex="1" parent="1">
+            <mxGeometry x="1428.1528662420383" y="487.5" width="281.8471337579618" height="33.333333333333336" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;ul style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 11px; font-weight: 700; text-align: left;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;MOA regarding changes to AWS&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" link="https://ecn.uscis.dhs.gov/team/fdns/Mission%20Support/WorkforceManagement/NewEmployeeResources/AHR%20Approval%20-%20Alternative%20Work%20Schedule%20FDNS.pdf" id="ezUt7ITriSW1cjWMWIen-56">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;container=0;" vertex="1" parent="1">
+            <mxGeometry x="1420" y="505.8333333333333" width="197.29299363057325" height="33.333333333333336" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;ul style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 11px; font-weight: 700; text-align: left;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;HQFDNS employees on a non-shift work schedule&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;&amp;nbsp;AWS Online Application Guide (G-1228)&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" link="https://ecn.uscis.dhs.gov/team/fdns/Mission%20Support/WorkforceManagement/NewEmployeeResources/AWS_Online_Application_Guide_Employee.pdf" id="ezUt7ITriSW1cjWMWIen-57">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;container=0;" vertex="1" parent="1">
+            <mxGeometry x="1427.2133757961783" y="539.6666666666666" width="197.29299363057325" height="33.333333333333336" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
