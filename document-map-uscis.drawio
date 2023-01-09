@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-09T18:31:13.937Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Dfl618Pi_k_dxjs3ps8_" version="20.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-09T18:33:03.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="xjeAevEU4clxY7J_nnpn" version="20.8.1" type="github">
   <diagram id="tNLMt90Evwb3OFQb0YTO" name="HQFDNS">
-    <mxGraphModel dx="956" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="1" shadow="0">
+    <mxGraphModel dx="1366" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,10 +133,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hO-RIWSvQyp-7317ckD7-54" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#5E9732;strokeColor=#36393d;align=left;" parent="hO-RIWSvQyp-7317ckD7-48" vertex="1">
-          <mxGeometry x="596.089689378355" width="289.1019989333334" height="91.28842105263155" as="geometry" />
+          <mxGeometry x="601.089689378355" width="289.1019989333334" height="91.28842105263155" as="geometry" />
         </mxCell>
         <mxCell id="hO-RIWSvQyp-7317ckD7-56" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#5E9732;strokeColor=#36393d;align=left;" parent="hO-RIWSvQyp-7317ckD7-48" vertex="1">
-          <mxGeometry x="591.77" y="106.67" width="296.23" height="105.36" as="geometry" />
+          <mxGeometry x="600.77" y="106.67" width="296.23" height="105.36" as="geometry" />
         </mxCell>
         <mxCell id="hO-RIWSvQyp-7317ckD7-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=14;fontColor=#666666;endArrow=baseDash;endFill=0;strokeColor=#666666;" parent="hO-RIWSvQyp-7317ckD7-48" source="hO-RIWSvQyp-7317ckD7-52" target="hO-RIWSvQyp-7317ckD7-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -145,12 +145,12 @@
           <mxGeometry x="600" y="110" width="280" height="100" as="geometry" />
         </mxCell>
         <mxCell id="hO-RIWSvQyp-7317ckD7-59" value="&lt;ul&gt;&lt;li&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;AWS for Non-Shift employees&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;HQFDNS AWS Memo for professional bargaining unit employees&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;MOA regarding changes to AWS&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot; face=&quot;Source Sans Pro&quot;&gt;HQFDNS employees on a non-shift work schedule&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;fontFamily=Helvetica;" parent="hO-RIWSvQyp-7317ckD7-48" vertex="1">
-          <mxGeometry x="601.0389610389611" width="277.40259740259745" height="91.28842105263159" as="geometry" />
+          <mxGeometry x="602.0389610389611" width="277.40259740259745" height="91.28842105263159" as="geometry" />
         </mxCell>
         <mxCell id="LasIUC3LL_AKMvU_pXDK-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#666666;endArrow=baseDash;endFill=0;strokeColor=#666666;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="hO-RIWSvQyp-7317ckD7-48" source="hO-RIWSvQyp-7317ckD7-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="485.58917748917764" y="27.104227665222638" as="sourcePoint" />
-            <mxPoint x="593.5291774891776" y="27.17269398101216" as="targetPoint" />
+            <mxPoint x="603.53" y="26.809999999999945" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
