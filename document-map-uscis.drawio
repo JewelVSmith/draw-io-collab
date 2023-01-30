@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-27T20:22:05.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="aRX4R9OYAeKQIRRB8AwS" version="20.8.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-30T14:39:03.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="lQ69LiDpM5JeZ2sIDiYk" version="20.8.13" type="github">
   <diagram id="tJbH-cf7ySyzuhJ2Tf5R" name="HQFDNS">
-    <mxGraphModel dx="34" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="34" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,7 +45,7 @@
             <mxGeometry x="484" y="177.65" width="320" height="42.86" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;ul style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 16px; font-weight: 700; text-align: left;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot;&gt;HQFDNS TW OVERVIEW&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot;&gt;HQFDNS CORE AND EPISODIC GUIDE&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" link="https://ecn.uscis.dhs.gov/team/fdns/Mission%20Support/WorkforceManagement/NewEmployeeResources/Telework_HQFDNS_06-16-2021.pdf" id="GblEB0m1OWXhG2J_nrAS-62">
+        <UserObject label="&lt;ul style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 16px; font-weight: 700; text-align: left;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot;&gt;HQFDNS TW OVERVIEW&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Sans+Pro&quot;&gt;HQFDNS CORE AND EPISODIC GUIDE&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" link="https://ecn.uscis.dhs.gov/team/fdns/Mission%20Support/WorkforceManagement/NewEmployeeResources/Telework_HQFDNS_06-16-2021.pdf#search=hqfdns%20telework" id="GblEB0m1OWXhG2J_nrAS-62">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;fontFamily=Source Sans Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BSans%2BPro;fontSize=16;" parent="GblEB0m1OWXhG2J_nrAS-6" vertex="1">
             <mxGeometry x="498" y="10" width="290" height="70" as="geometry" />
           </mxCell>
